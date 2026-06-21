@@ -1,10 +1,78 @@
 {
-  "titolo": "Capitolo 1",
-  "descrizione": "Sostituire con le flashcard del primo capitolo.",
+  "titolo": "Capitolo 1 — Brand Equity",
+  "descrizione": "Brand equity, modello di Keller, vantaggi e metodologia Interbrand.",
   "flashcards": [
     {
-      "domanda": "Esempio: questa è la facciata davanti della carta (la domanda).",
-      "risposta": "Esempio: questa è la risposta. Leggimi il Capitolo 1 e riempirò questa lista con le vere flashcard."
+      "domanda": "Che cosa sono gli asset intangibili?",
+      "risposta": "Attività non monetarie che si manifestano attraverso le loro proprietà economiche intrinseche. Non hanno sostanza fisica, ma garantiscono diritti o benefici economici al loro proprietario. Il marchio è un asset intangibile."
+    },
+    {
+      "domanda": "La pubblicità crea bisogni o desideri?",
+      "risposta": "Non crea mai un bisogno: i pubblicitari bravi sanno creare dei desideri."
+    },
+    {
+      "domanda": "Che cos'è la Brand Equity?",
+      "risposta": "Il valore economico attribuibile a un marchio e la sua capacità di generare ricavi più elevati rispetto a prodotti di marchi meno conosciuti o sconosciuti. È il valore aggiunto che un brand conferisce a un prodotto/servizio rispetto a un equivalente senza marca."
+    },
+    {
+      "domanda": "Da quali elementi dipende la Brand Equity?",
+      "risposta": "Da notorietà, reputazione, fedeltà dei clienti e percezione della qualità."
+    },
+    {
+      "domanda": "Perché i marchi hanno un valore finanziario?",
+      "risposta": "Perché hanno creato un patrimonio nella mente e nel cuore dei clienti, dei distributori, degli opinion leader, dei leader, ecc. (es. Apple, Lenovo: conta cosa associ a quel brand)."
+    },
+    {
+      "domanda": "Che cos'è il modello Customer-Based Brand Equity e chi lo ha elaborato?",
+      "risposta": "Modello elaborato da Kevin Lane Keller che guarda il marchio dal punto di vista del cliente: cosa pensa e sente del marchio. Il vantaggio è porsi nella prospettiva del cliente e comprendere come il marchio generi valore per le persone e, di conseguenza, per le aziende."
+    },
+    {
+      "domanda": "Quali sono le due leve di generazione del valore nel modello di Keller?",
+      "risposta": "1) Brand Awareness (consapevolezza della marca); 2) Brand Image (immagine/percezione della marca)."
+    },
+    {
+      "domanda": "Che cos'è la Brand Awareness?",
+      "risposta": "La capacità di un brand di essere ricordato, riconosciuto e memorizzato dal consumatore. In breve, misura quanto un brand è noto."
+    },
+    {
+      "domanda": "Che cos'è la Brand Image?",
+      "risposta": "Come il brand viene percepito: l'insieme di percezioni, emozioni e impressioni che le persone hanno di un marchio e come il pubblico lo interpreta sulla base delle proprie esperienze (comunicazione e reputazione)."
+    },
+    {
+      "domanda": "Cosa illustra l'esempio di Goyard (vs Louis Vuitton)?",
+      "risposta": "Goyard è un marchio meno conosciuto: ha un problema di brand image/awareness. Se l'obiettivo è incrementare l'awareness, l'operazione è costosissima."
+    },
+    {
+      "domanda": "Quali sono i vantaggi di una Strong Brand Equity?",
+      "risposta": "Migliore percezione della performance del prodotto, maggiore fedeltà, minore vulnerabilità alle azioni dei concorrenti e alle crisi di mercato, margini più ampi, risposta più rigida agli aumenti di prezzo e più elastica ai ribassi, maggiore cooperazione e supporto del trade, maggiore efficacia di mercato e di comunicazione, possibilità di licensing."
+    },
+    {
+      "domanda": "Perché una forte brand equity migliora la percezione della performance del prodotto?",
+      "risposta": "Le persone pensano che il prodotto funzioni meglio solo perché è di marca (Improved Perception of Product Performance)."
+    },
+    {
+      "domanda": "A cosa serve la metodologia Interbrand?",
+      "risposta": "A misurare il valore economico di un brand e capire quanto il marchio contribuisce al successo dell'azienda. Si calcola tramite analisi finanziaria, misurando il ritorno finanziario complessivo generato per gli investitori, cioè il profitto economico."
+    },
+    {
+      "domanda": "Nel metodo Interbrand, cosa misura il 'Role of Brands'?",
+      "risposta": "La parte della decisione di acquisto attribuita al brand rispetto ad altri fattori: quanto il marchio influisce davvero sulle vendite."
+    },
+    {
+      "domanda": "Nel metodo Interbrand, cosa misura la 'Strength Analysis'?",
+      "risposta": "La capacità del brand di creare fedeltà, sostenibilità e profitto nel futuro: quanto il marchio è forte nel lungo periodo. Si basa su fattori interni ed esterni."
+    },
+    {
+      "domanda": "Quali sono i fattori INTERNI della Strength Analysis (Interbrand)?",
+      "risposta": "Leadership e fattori dinamici e customer-centrati. Valutano quanto l'organizzazione è capace di supportare e far crescere il marchio dall'interno."
+    },
+    {
+      "domanda": "Quali sono i fattori ESTERNI della Strength Analysis (Interbrand)?",
+      "risposta": "Distinzione, Coerenza, Partecipazione, Rilevanza, Presenza, Fiducia e Affinità."
+    },
+    {
+      "domanda": "Quali sono i criteri di inclusione di un brand nel ranking Interbrand?",
+      "risposta": "Almeno il 30% del revenue deve venire dalla regione natale del brand; presenza significativa in Asia, Europa e Nord America; sufficienti informazioni pubbliche sul brand e sulla sua performance; profitto positivo nel lungo periodo; profilo pubblico e sufficiente awareness."
     }
   ]
 }
