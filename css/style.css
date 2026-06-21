@@ -94,6 +94,50 @@ a { color: inherit; text-decoration: none; }
   border-radius: var(--radius);
 }
 
+/* Statistiche dei progressi */
+.statbar {
+  display: flex; height: 8px; border-radius: 999px; overflow: hidden;
+  background: rgba(255,255,255,0.08); margin: 16px 0 10px;
+}
+.statbar .seg { display: block; height: 100%; }
+.statbar .seg-good { background: var(--good); }
+.statbar .seg-warn { background: var(--warn); }
+
+.statline { display: flex; flex-wrap: wrap; gap: 12px; color: var(--muted); font-size: 0.8rem; }
+.statline .dot, .stats-grid .dot { width: 9px; height: 9px; border-radius: 50%; display: inline-block; margin-right: 5px; vertical-align: middle; }
+.dot.good { background: var(--good); }
+.dot.warn { background: var(--warn); }
+.dot.new { background: rgba(255,255,255,0.35); }
+
+.stats-panel {
+  background: linear-gradient(160deg, var(--card) 0%, var(--card-2) 100%);
+  border: 1px solid rgba(255,255,255,0.06);
+  border-radius: var(--radius); padding: 22px; margin-bottom: 22px; box-shadow: var(--shadow);
+}
+.stats-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-top: 14px; }
+.stats-grid > div { text-align: center; }
+.stats-grid b { display: block; font-size: 1.7rem; }
+.stats-grid span { font-size: 0.78rem; color: var(--muted); }
+.stats-grid .good b { color: var(--good); }
+.stats-grid .warn b { color: var(--warn); }
+.stats-grid .new b { color: var(--muted); }
+
+.btn.disabled { opacity: 0.4; pointer-events: none; }
+.saved-note { color: var(--good); font-size: 0.85rem; margin: -4px 0 18px; }
+
+.card-badge {
+  position: absolute; top: 18px; right: 22px;
+  font-size: 0.68rem; letter-spacing: 0.06em; text-transform: uppercase;
+  padding: 3px 9px; border-radius: 999px; font-weight: 700;
+  background: rgba(255,255,255,0.08); color: var(--muted);
+}
+.card-badge.good { background: rgba(61,220,132,0.18); color: var(--good); }
+.card-badge.warn { background: rgba(255,180,84,0.18); color: var(--warn); }
+
+@media (max-width: 520px) {
+  .stats-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
 /* Study mode */
 .study-head {
   display: flex; align-items: center; justify-content: space-between;

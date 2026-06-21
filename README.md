@@ -12,6 +12,16 @@ Nessun framework, nessun build: basta HTML, CSS e un po' di JavaScript. Perfetta
 
 Scorciatoie da tastiera: `Spazio` gira la carta · `1` da ripassare · `2` la sapevo · `←` carta precedente.
 
+## Memoria dei progressi
+
+Il sito **ricorda** cosa hai studiato: per ogni carta salva se l'hai segnata "la sapevo" o
+"da ripassare". I progressi sono memorizzati nel browser (`localStorage`), quindi restano anche
+chiudendo la pagina. Vedi le statistiche (sapute / da ripassare / non ancora viste) sulla home,
+nella materia e nel capitolo, e puoi avviare un ripasso mirato **solo di ciò che non sai**.
+Da ogni capitolo puoi azzerare i progressi.
+
+Nota: la memoria è legata al browser e al dispositivo che usi (non è sincronizzata tra dispositivi).
+
 ## Struttura del progetto
 
 ```
