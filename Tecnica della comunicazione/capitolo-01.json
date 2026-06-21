@@ -1,6 +1,6 @@
 {
   "titolo": "Capitolo 1 — Brand Equity",
-  "descrizione": "Brand equity, modello di Keller, vantaggi e metodologia Interbrand.",
+  "descrizione": "Brand equity, Keller, Interbrand, brand identity, image, corporate branding e reputation.",
   "flashcards": [
     {
       "domanda": "Che cosa sono gli asset intangibili?",
@@ -20,11 +20,11 @@
     },
     {
       "domanda": "Perché i marchi hanno un valore finanziario?",
-      "risposta": "Perché hanno creato un patrimonio nella mente e nel cuore dei clienti, dei distributori, degli opinion leader, dei leader, ecc. (es. Apple, Lenovo: conta cosa associ a quel brand)."
+      "risposta": "Perché hanno creato un patrimonio nella mente e nel cuore dei clienti, dei distributori, degli opinion leader, ecc. (es. Apple, Lenovo: conta cosa associ a quel brand)."
     },
     {
       "domanda": "Che cos'è il modello Customer-Based Brand Equity e chi lo ha elaborato?",
-      "risposta": "Modello elaborato da Kevin Lane Keller che guarda il marchio dal punto di vista del cliente: cosa pensa e sente del marchio. Il vantaggio è porsi nella prospettiva del cliente e comprendere come il marchio generi valore per le persone e, di conseguenza, per le aziende."
+      "risposta": "Modello elaborato da Kevin Lane Keller che si pone nella prospettiva del cliente: comprende come il marchio generi valore per le persone e, di conseguenza, per le aziende."
     },
     {
       "domanda": "Quali sono le due leve di generazione del valore nel modello di Keller?",
@@ -36,43 +36,127 @@
     },
     {
       "domanda": "Che cos'è la Brand Image?",
-      "risposta": "Come il brand viene percepito: l'insieme di percezioni, emozioni e impressioni che le persone hanno di un marchio e come il pubblico lo interpreta sulla base delle proprie esperienze (comunicazione e reputazione)."
+      "risposta": "Come il brand viene percepito: l'insieme di percezioni, emozioni e impressioni che le persone hanno di un marchio, sulla base di esperienze, comunicazione e reputazione. Es. Goyard, meno conosciuto di LV, ha un problema di brand image (aumentare l'awareness è costosissimo)."
     },
     {
-      "domanda": "Cosa illustra l'esempio di Goyard (vs Louis Vuitton)?",
-      "risposta": "Goyard è un marchio meno conosciuto: ha un problema di brand image/awareness. Se l'obiettivo è incrementare l'awareness, l'operazione è costosissima."
+      "domanda": "Quali sono gli Strong Brand Equity Advantages?",
+      "risposta": "Migliore percezione della performance del prodotto; maggiore fedeltà (loyalty); minore vulnerabilità alle azioni della concorrenza; minore vulnerabilità alle crisi di mercato; margini più ampi; risposta più rigida (inelastica) agli aumenti di prezzo e più elastica ai ribassi; maggiore cooperazione e supporto del trade; maggiore efficacia della comunicazione di marketing; opportunità di licensing; opportunità di brand extension; clienti più disposti a cercare il brand in un nuovo canale distributivo."
     },
     {
-      "domanda": "Quali sono i vantaggi di una Strong Brand Equity?",
-      "risposta": "Migliore percezione della performance del prodotto, maggiore fedeltà, minore vulnerabilità alle azioni dei concorrenti e alle crisi di mercato, margini più ampi, risposta più rigida agli aumenti di prezzo e più elastica ai ribassi, maggiore cooperazione e supporto del trade, maggiore efficacia di mercato e di comunicazione, possibilità di licensing."
+      "domanda": "In cosa consiste la metodologia Interbrand (Best Global Brands)?",
+      "risposta": "Misura il valore economico di un brand attraverso tre componenti: 1) Financial analysis; 2) Role of Brands; 3) Strength Analysis."
     },
     {
-      "domanda": "Perché una forte brand equity migliora la percezione della performance del prodotto?",
-      "risposta": "Le persone pensano che il prodotto funzioni meglio solo perché è di marca (Improved Perception of Product Performance)."
+      "domanda": "Interbrand: che cos'è la Financial Analysis?",
+      "risposta": "Misura il ritorno finanziario complessivo generato per gli investitori, cioè il profitto economico. Interbrand guarda i dati finanziari (ricavi, costi, profitti) per capire quanto valore genera il business, indipendentemente dal brand."
     },
     {
-      "domanda": "A cosa serve la metodologia Interbrand?",
-      "risposta": "A misurare il valore economico di un brand e capire quanto il marchio contribuisce al successo dell'azienda. Si calcola tramite analisi finanziaria, misurando il ritorno finanziario complessivo generato per gli investitori, cioè il profitto economico."
+      "domanda": "Interbrand: che cos'è il Role of Brands?",
+      "risposta": "Misura la parte della decisione d'acquisto attribuibile al brand rispetto ad altri fattori. Se si compra solo perché è di quella marca, il ruolo del brand è alto; se si compra per prezzo o funzione, è basso."
     },
     {
-      "domanda": "Nel metodo Interbrand, cosa misura il 'Role of Brands'?",
-      "risposta": "La parte della decisione di acquisto attribuita al brand rispetto ad altri fattori: quanto il marchio influisce davvero sulle vendite."
+      "domanda": "Interbrand: che cos'è la Strength Analysis?",
+      "risposta": "Misura la capacità del brand di creare fedeltà, sostenibilità e profitto nel futuro, cioè quanto è forte nel lungo periodo. Si basa su fattori interni ed esterni."
     },
     {
-      "domanda": "Nel metodo Interbrand, cosa misura la 'Strength Analysis'?",
-      "risposta": "La capacità del brand di creare fedeltà, sostenibilità e profitto nel futuro: quanto il marchio è forte nel lungo periodo. Si basa su fattori interni ed esterni."
+      "domanda": "Strength Analysis: quali sono i fattori INTERNI (leadership)?",
+      "risposta": "Direzione (chiarezza della visione), Allineamento (coerenza interna), Empatia (capacità di capire le persone), Agilità (capacità di adattarsi e reagire ai cambiamenti). Valutano quanto l'organizzazione sa supportare e far crescere il marchio dall'interno."
     },
     {
-      "domanda": "Quali sono i fattori INTERNI della Strength Analysis (Interbrand)?",
-      "risposta": "Leadership e fattori dinamici e customer-centrati. Valutano quanto l'organizzazione è capace di supportare e far crescere il marchio dall'interno."
-    },
-    {
-      "domanda": "Quali sono i fattori ESTERNI della Strength Analysis (Interbrand)?",
-      "risposta": "Distinzione, Coerenza, Partecipazione, Rilevanza, Presenza, Fiducia e Affinità."
+      "domanda": "Strength Analysis: quali sono i fattori ESTERNI (engagement e relevance)?",
+      "risposta": "Engagement: Distinzione, Coerenza, Partecipazione. Relevance: Presenza, Fiducia, Affinità (positive connection)."
     },
     {
       "domanda": "Quali sono i criteri di inclusione di un brand nel ranking Interbrand?",
-      "risposta": "Almeno il 30% del revenue deve venire dalla regione natale del brand; presenza significativa in Asia, Europa e Nord America; sufficienti informazioni pubbliche sul brand e sulla sua performance; profitto positivo nel lungo periodo; profilo pubblico e sufficiente awareness."
+      "risposta": "Almeno il 30% del revenue dalla regione natale; presenza significativa in Asia, Europa e Nord America; sufficienti info pubbliche sulla performance; profitto positivo nel lungo periodo; profilo pubblico e sufficiente awareness."
+    },
+    {
+      "domanda": "Che cos'è il Brand Resonance Model (piramide di Keller)?",
+      "risposta": "Un modello che descrive come creare una relazione intensa, attiva e leale con il consumatore. Guarda alla costruzione del brand come una sequenza di passaggi, ognuno dei quali dipende dal successo del precedente."
+    },
+    {
+      "domanda": "Quali sono i 4 livelli della piramide di Keller?",
+      "risposta": "1) Brand Identity (far riconoscere il brand e associarlo a una categoria/bisogno — salience); 2) Brand Meaning (costruire il significato, con elementi tangibili e imagery); 3) Brand Responses (suscitare giudizi e sentimenti); 4) Brand Relationship (lealtà forte, coinvolgimento, attaccamento — la resonance, massimo livello)."
+    },
+    {
+      "domanda": "Quali sono i 6 building block della piramide di Keller?",
+      "risposta": "1) Salience (quanto conosci/ricordi il brand); 2) Performance (parte funzionale); 3) Immagine (parte emotiva e simbolica); 4) Judgment (giudizi razionali); 5) Feeling (emozioni); 6) Resonance (rapporto profondo e duraturo)."
+    },
+    {
+      "domanda": "Cosa sono gli asset intangibili dell'impresa e perché sono fondamentali? (ETCA)",
+      "risposta": "Beni non incorporati in alcuna sostanza fisica che aiutano l'impresa a generare valore come segno distintivo e vantaggio competitivo. Sono fondamentali perché più difficili da replicare rispetto a un bene fisico."
+    },
+    {
+      "domanda": "Quali sono i principali beni intangibili della marca?",
+      "risposta": "Brand identity, brand image, brand reputation e corporate branding."
+    },
+    {
+      "domanda": "Che cos'è la Brand Identity?",
+      "risposta": "L'identità della marca: ciò che l'azienda è e ciò che vuole diventare, e che intende proiettare verso l'esterno."
+    },
+    {
+      "domanda": "Quali sono le 4 fasi del processo evolutivo della Brand Identity?",
+      "risposta": "1) Visual identity (elementi grafici/simbolici: come appare l'azienda, non cos'è); 2) Strategic approach (visione olistica e culturale, prisma di Kapferer); 3) Storytelling (anni 2000: la marca come icona culturale che racconta significati); 4) Co-creazione (l'identità è co-creata con i consumatori, entità dinamica)."
+    },
+    {
+      "domanda": "Che cos'è il prisma di Kapferer?",
+      "risposta": "Uno strumento strategico che descrive il brand come entità complessa, collegando l'identità (ciò che l'azienda vuole proiettare) e l'immagine (come viene percepita). Ha 6 facce e 4 poli (esternalizzazione vs internalizzazione)."
+    },
+    {
+      "domanda": "Quali sono le 6 facce del prisma di Kapferer?",
+      "risposta": "1) Fisica (aspetto visivo/concreto: logo, packaging); 2) Personalità (carattere del brand come persona); 3) Relationship (relazione con gli stakeholder); 4) Cultura (principi e valori); 5) Reflection (riflesso del consumatore ideale); 6) Self-image (come si sente il consumatore: «with brand X, I feel like»)."
+    },
+    {
+      "domanda": "Secondo Kapferer, perché «la marca è un essere parlante»?",
+      "risposta": "Perché tutte le facce insieme formano una struttura in cui il contenuto di una fa eco all'altra: la marca non esiste se non comunica."
+    },
+    {
+      "domanda": "Che cos'è la Brand Image e come nasce?",
+      "risposta": "Introdotta negli anni '50, è la rappresentazione mentale dell'azienda basata su percezioni, esperienze e opinioni dei consumatori (dirette e indirette). È l'insieme delle idee e dei feeling che uno stakeholder ha quando gli si cita un brand."
+    },
+    {
+      "domanda": "Da quali due aspetti è costituita la Brand Image?",
+      "risposta": "1) Aspetti cognitivi (conoscenza degli attributi, conseguenze d'uso, prezzo); 2) Aspetti non cognitivi (associazioni emotive/affettive, soggettività)."
+    },
+    {
+      "domanda": "Cosa sono ipervalutazione e ipovalutazione del brand?",
+      "risposta": "Ipervalutazione: brand image > brand identity (l'immagine percepita è più influente dell'identità proiettata — es. Supreme, da brand underground a simbolo di hype). Ipovalutazione: brand image < brand identity (l'immagine è meno forte dell'identità — es. Nokia dopo l'era smartphone)."
+    },
+    {
+      "domanda": "Quali sono il ruolo e i vantaggi della Brand Image?",
+      "risposta": "Differenziazione e posizionamento competitivo (es. Apple); fidelizzazione e relazioni (consumatori come brand ambassador, es. Patagonia); percezione del valore e premium price; supporto nei momenti di crisi; brand extension; attrattività per talenti e investitori."
+    },
+    {
+      "domanda": "Differenza tra brand communication e corporate branding?",
+      "risposta": "Brand communication = promuovere un singolo brand o prodotto. Corporate branding = promuovere l'intera impresa (company as a whole), raccontando l'identità dell'azienda. Es. campagne P&G."
+    },
+    {
+      "domanda": "Che cos'è la Brand Architecture?",
+      "risposta": "L'organizzazione logica del rapporto tra impresa e relative marche: una mappa che posiziona i diversi brand del portfolio mantenendo coerenza con il corporate brand, per differenziarli e migliorarne il riconoscimento."
+    },
+    {
+      "domanda": "Quali sono le tre tipologie di Brand Architecture?",
+      "risposta": "1) Monolitica (un'unica marca domina, forte legame corporate/sub-brand: es. Apple → iPhone); 2) Endorsed (ogni brand ha identità propria ma è garantito dal corporate: es. Nestlé → Nesquik, Nescafé); 3) Branded / House of Brands (portfolio di marche iperdistinte e autonome: es. L'Oréal, Google)."
+    },
+    {
+      "domanda": "Quali sono le 3 fasi (storiche) del corporate branding?",
+      "risposta": "1) C.B. as a marketing process (anni '80): comunicazione a tutela dei marchi di prodotto; 2) C.B. as an organizational process (anni '90): dimensione strategica di governo dell'intera impresa; 3) C.B. as a societal process (oggi): promessa di valore verso gli stakeholder, corporate citizenship."
+    },
+    {
+      "domanda": "Che cos'è la Corporate Citizenship (social corporate branding)?",
+      "risposta": "L'insieme di azioni che dimostrano agli stakeholder la responsabilità sociale e ambientale dell'azienda. Implica assumersi responsabilità civiche tradizionalmente dello Stato, costruendo una brand identity solida. Deve rispecchiare la cultura aziendale, altrimenti rischia gravi perdite reputazionali."
+    },
+    {
+      "domanda": "Che cos'è la Corporate Reputation?",
+      "risposta": "La rappresentazione socialmente elaborata e condivisa della storia e dei risultati passati dell'azienda, che ne descrive l'abilità di generare valore per i suoi stakeholder. È il risultato di azioni di lungo periodo, non una strategia di marketing."
+    },
+    {
+      "domanda": "Differenza tra corporate reputation e brand image?",
+      "risposta": "L'immagine è una figura mentale anche soggettiva e di breve periodo; la reputation è un nucleo coeso e condiviso di aspettative sociali (non soggettiva), legato alla continuità e consistenza della condotta nel tempo. Un danno di reputazione richiede molto più tempo per essere riparato."
+    },
+    {
+      "domanda": "Cosa illustra il caso Volkswagen «dieselgate»?",
+      "risposta": "VW adotta una corporate communication sulla sostenibilità, ma si scopre che i dati sulle emissioni erano truccati: il consumatore si sente tradito → crollo immediato di reputazione. Lo scandalo danneggia anche i competitor e l'intero mercato diesel."
     }
   ]
 }

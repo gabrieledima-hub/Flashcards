@@ -1,0 +1,114 @@
+{
+  "titolo": "Capitolo 3 — I canali di comunicazione",
+  "descrizione": "Paid, Owned ed Earned media, PR, paid media e strumenti.",
+  "flashcards": [
+    {
+      "domanda": "Cosa sono Paid, Owned ed Earned media?",
+      "risposta": "Paid media: canali a pagamento (pubblicità online, social ads, banner, spot). Owned media: canali di tua proprietà (sito, blog, social aziendali, newsletter). Earned media: visibilità ottenuta dagli altri (recensioni, passaparola, articoli, condivisioni)."
+    },
+    {
+      "domanda": "Quali ruoli hanno i media nel customer journey?",
+      "risposta": "I Paid Media servono a creare il bisogno e far conoscere il brand; gli Owned Media a comunicare con chi è già consapevole della marca; gli Earned Media hanno un ruolo sia nella creazione di awareness/immagine sia nella fidelizzazione finale (passaparola, recensioni)."
+    },
+    {
+      "domanda": "Perché i social media sono peculiari rispetto alle tre categorie di media?",
+      "risposta": "Perché giocano un ruolo in tutte: possono essere usati organicamente (Owned), pianificati per la pubblicità (Paid) e sono il canale privilegiato per contenuti generati dagli utenti e passaparola digitale (Earned)."
+    },
+    {
+      "domanda": "Quali sono esempi di Owned Media (canali proprietari)?",
+      "risposta": "Insegne, sito web, canali social, comunicazione diretta, punti vendita, venditori, uniformi, livree dei veicoli, packaging. Alcune aziende hanno anche musei, radio o riviste proprie (es. Italo magazine)."
+    },
+    {
+      "domanda": "Quali caratteristiche deve avere un sito web efficace?",
+      "risposta": "Mobile friendly e veloce, semplice e con navigazione intuitiva, risponde a tutte le domande degli utenti, riflette la brand identity, sempre aggiornato, facile da consultare, con chiare politiche di acquisto/spedizione/reso (se e-commerce) e migliore dei competitor."
+    },
+    {
+      "domanda": "Che cos'è il PED?",
+      "risposta": "Il Piano Editoriale: uno strumento che definisce cosa pubblicare, quando e chi è responsabile della produzione (testi, immagini, video). È la base della content strategy di un sito web."
+    },
+    {
+      "domanda": "Quali regole seguire per scrivere contenuti sul web?",
+      "risposta": "Scrivere poco; mettere le info importanti all'inizio; linguaggio semplice (parole e frasi brevi); orientare con titoli, sottotitoli, bullet point; essere interessanti e non autoreferenziali; evitare iperboli; consentire approfondimenti con link; dimostrare autorevolezza; tenere il sito aggiornato."
+    },
+    {
+      "domanda": "Che cos'è la Content Strategy e qual è il suo obiettivo?",
+      "risposta": "Si focalizza sulla pianificazione, creazione, diffusione e governance dei contenuti. Obiettivo: creare contenuti significativi, coerenti, coinvolgenti e sostenibili (su owned media) al fine di generare fiducia. I contenuti possono essere educativi o di intrattenimento, in infiniti formati."
+    },
+    {
+      "domanda": "Perché le aziende presidiano i social media?",
+      "risposta": "Per stimolare engagement con contenuti organici; dare assistenza (social caring) anche in crisi; fare pubblicità sponsorizzando contenuti per target specifici; ottimizzare l'influencer marketing; presidiare eventi live; ottenere informazioni e insight dal pubblico."
+    },
+    {
+      "domanda": "Che cos'è la comunicazione diretta e quando è Owned o Paid?",
+      "risposta": "Detta Direct Marketing o one-to-one, è un approccio personalizzato (lettere, cataloghi, telefonate, email, DM, newsletter, venditori). È Owned Media quando l'organizzazione ha il diritto di contattare i propri stakeholder (consenso); diventa Paid se si acquistano liste di contatti da terzi."
+    },
+    {
+      "domanda": "Cosa prevede il GDPR e cos'è la gating strategy?",
+      "risposta": "Il GDPR (dal 25 maggio 2018) impone di chiedere il consenso al trattamento dei dati e consentirne l'annullamento. La gating strategy: per accedere a un contenuto di valore, alla persona viene chiesto di fornire i propri dati (tipicamente l'email)."
+    },
+    {
+      "domanda": "Perché il packaging è un medium di comunicazione?",
+      "risposta": "Perché contribuisce in modo significativo allo sviluppo di Brand Image e Brand Awareness e, in fase di consumo, garantisce più di ogni altro medium la vicinanza tra marca e fruitore (esperienza del brand). Unisce materialità e immaterialità."
+    },
+    {
+      "domanda": "Qual è il ruolo dei venditori (forza vendita)?",
+      "risposta": "Sono chiave nella relazione cliente-impresa e influenzano la percezione di affidabilità e qualità. Svolgono attività di vendita, servizio e trasmissione di informazioni: forniscono dati su bisogni della clientela, concorrenza e competitività dei prodotti."
+    },
+    {
+      "domanda": "Cos'è il merchandising nel punto vendita?",
+      "risposta": "La disciplina che comprende le tecniche commerciali per presentare il prodotto/servizio nelle migliori condizioni materiali e psicologiche; è l'espressione delle decisioni di marketing nel punto vendita e riguarda la gestione dello spazio espositivo."
+    },
+    {
+      "domanda": "Cosa sono gli Earned Media?",
+      "risposta": "Comunicazione positiva prodotta spontaneamente da terzi (non a pagamento). Non possono essere comprati, ma la loro produzione può essere incentivata/stimolata. Sono la forma più efficace e persuasiva di comunicazione."
+    },
+    {
+      "domanda": "Quali sono esempi di Earned Media?",
+      "risposta": "Passaparola; articoli e servizi giornalistici (TV, radio); recensioni e valutazioni su e-commerce; voci su Wikipedia; contenuti generati dagli utenti sui social."
+    },
+    {
+      "domanda": "Come si stimola la produzione di Earned Media?",
+      "risposta": "Coltivando un buon rapporto con i creatori di contenuti (giornalisti, influencer, blogger) che raggiungono il target; costruendo una buona reputazione tra i clienti (recensioni, passaparola), oggi stimolata anche con premi e vantaggi."
+    },
+    {
+      "domanda": "Quali sono gli ambiti presidiati dalle Public Relations (PR)?",
+      "risposta": "La società dell'informazione (media relations: agenzie, giornali, TV, radio, new media); la società economica (investor relations: imprese, clienti, consumatori); la società politica (relazioni istituzionali: istituzioni, partiti, lobby). Più gli opinion leader e la comunità."
+    },
+    {
+      "domanda": "Cosa sono le Media Relations e la notiziabilità?",
+      "risposta": "Media relations = coltivare relazioni con la stampa (una terza parte è più credibile della pubblicità). Notiziabilità = la capacità di un evento di trasformarsi in notizia; serve a rendere le informazioni attraenti per i giornalisti."
+    },
+    {
+      "domanda": "Quali sono i principali strumenti operativi delle PR?",
+      "risposta": "Media list (database dei contatti giornalistici per categoria); cartella stampa / press kit (materiale informativo per eventi e conferenze); comunicato stampa (testo sintetico inviato alle agenzie, che può essere ripreso dai media)."
+    },
+    {
+      "domanda": "Com'è strutturato un buon comunicato stampa?",
+      "risposta": "Snello, con la notizia nelle prime righe e le 5 domande chiave (chi, cosa, dove, quando, perché). Struttura: titolo d'impatto, sottotitolo, primo paragrafo con data, citazione di uno stakeholder interno, trend tie-in, citazione di un testimonial esterno, call to action, boilerplate (bio azienda e contatti)."
+    },
+    {
+      "domanda": "Cos'è una conferenza stampa?",
+      "risposta": "Un incontro di esponenti aziendali con giornalisti per diffondere una notizia, con possibilità di rispondere alle domande. Non dovrebbe durare più di 35-40 minuti (max un'ora) e può essere seguita in streaming. È gestita dall'Ufficio Stampa."
+    },
+    {
+      "domanda": "Cosa sono i Paid Media e la distinzione ATL/BTL?",
+      "risposta": "Comunicazioni a pagamento di promotori identificati, su mezzi di massa, rivolte a un pubblico obiettivo per stimolarne una risposta. ATL (above the line) = pubblicità a pagamento sui mass media; BTL (below the line) = tutte le altre forme (direct, PR, eventi, sponsorizzazioni, product placement)."
+    },
+    {
+      "domanda": "Che cos'è una sponsorizzazione?",
+      "risposta": "Una relazione di scambio in cui un'impresa (sponsor) fornisce supporto finanziario o tecnico a un soggetto (sponsee) per le sue attività, ottenendo in cambio di associare il proprio nome/marca a notorietà e immagine. Ambiti: sport, cultura, spettacolo, cause sociali/ambientali e MUSH (Municipalizzate, Università, Sociale, Hospital)."
+    },
+    {
+      "domanda": "Che cos'è il Product Placement e quali tipologie esistono?",
+      "risposta": "Posizionare intenzionalmente prodotti/brand in film, TV, videogiochi, ecc. dietro corrispettivo. Tipologie per grado di presenza: Screen placement (brand visivo in scena), Script placement (brand citato nel dialogo), Plot placement (brand centrale nella storia, es. Lego Movie, Barbie)."
+    },
+    {
+      "domanda": "Che cos'è il Branded Content e come si distingue dal product placement?",
+      "risposta": "La creazione da parte di un brand di un contenuto originale (o la sua naturale integrazione). A differenza del product placement (dove il contenuto esisterebbe comunque), nel branded content il contenuto è creato apposta per il brand. È più lungo di uno spot (3' o più) e deve coinvolgere il target e diventare virale."
+    },
+    {
+      "domanda": "Che cos'è un influencer e quali sono le 5 tipologie?",
+      "risposta": "Una persona capace di influenzare i potenziali acquirenti promuovendo articoli sui social (anche detto KOL — Key Opinion Leader, o KOC — Key Opinion Customer). Tipologie per follower: Mega (+1 mln), Macro (500k-1 mln), Mid-tier (50k-500k), Micro (10k-50k), Nano (1k-10k)."
+    }
+  ]
+}

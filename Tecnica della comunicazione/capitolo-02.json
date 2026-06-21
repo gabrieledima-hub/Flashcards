@@ -1,0 +1,98 @@
+{
+  "titolo": "Capitolo 2 — Piano di comunicazione",
+  "descrizione": "Comunicazione d'impresa, stakeholder, pianificazione e modello DAGMAR.",
+  "flashcards": [
+    {
+      "domanda": "Che cos'è la comunicazione d'impresa?",
+      "risposta": "L'insieme dei processi relazionali che l'impresa attiva per influenzare (rinforzare o modificare) gli atteggiamenti dei propri interlocutori, nel perseguimento dei suoi obiettivi."
+    },
+    {
+      "domanda": "Che cos'è il piano di comunicazione?",
+      "risposta": "Un documento strategico e operativo che presenta le attività di comunicazione necessarie al raggiungimento degli obiettivi prefissati."
+    },
+    {
+      "domanda": "Perché un'impresa comunica?",
+      "risposta": "Perché la comunicazione crea e diffonde valore: attiva i contatti, è indispensabile per gestire i rapporti interni ed esterni, e serve a creare e mantenere la fiducia."
+    },
+    {
+      "domanda": "Differenza tra stakeholder e target?",
+      "risposta": "Stakeholder = individui o gruppi interessati dalle azioni dell'azienda o che possono influenzarla. Target = il pubblico obiettivo preciso a cui sono diretti prodotti, servizi e messaggi di marketing."
+    },
+    {
+      "domanda": "Chi sono gli stakeholder primari?",
+      "risposta": "Quelli che hanno con l'organizzazione relazioni di tipo economico, senza i quali non esisterebbe: clienti finali e intermedi, azionisti e investitori, collaboratori e manager, fornitori e partner."
+    },
+    {
+      "domanda": "Chi sono gli stakeholder secondari?",
+      "risposta": "Quelli che non hanno rapporti economici con l'azienda ma la influenzano: media (giornalisti), associazioni, istituzioni pubbliche e regolatori, gruppi politici, comunità locali. La relazione con loro accresce credibilità, accettazione sociale e reputazione."
+    },
+    {
+      "domanda": "Quali sono i principi comuni del processo di pianificazione della comunicazione?",
+      "risposta": "Definizione del target; obiettivi di comunicazione per target; scelta di strumenti e canali; creazione di un messaggio efficace; misurazione dei risultati."
+    },
+    {
+      "domanda": "Quali sono le 7 fasi principali della pianificazione della comunicazione?",
+      "risposta": "1) Obiettivi aziendali; 2) Analisi del contesto (interno ed esterno); 3) Studio del target; 4) Definizione delle azioni e degli strumenti; 5) Allocazione delle risorse; 6) Cronoprogramma; 7) Sistema di controllo."
+    },
+    {
+      "domanda": "Da dove parte la strategia di comunicazione?",
+      "risposta": "Dagli obiettivi dell'organizzazione o del brand (es. cambiare/rafforzare posizionamento o reputazione, stimolare comportamenti, aumentare le vendite). Questi vanno tradotti in obiettivi di comunicazione misurabili."
+    },
+    {
+      "domanda": "Che cos'è il modello DAGMAR e da cosa deriva?",
+      "risposta": "DAGMAR (Defining Advertising Goals for Measured Advertising Results), proposto da Russell Colley nel 1961, serve a definire obiettivi pubblicitari misurabili. Deriva dal modello AIDA (1898, St. Elmo Lewis): Attenzione, Interesse, Desiderio, Azione."
+    },
+    {
+      "domanda": "Quali sono le 4 fasi del modello DAGMAR?",
+      "risposta": "1) Consapevolezza; 2) Comprensione; 3) Convinzione; 4) Azione."
+    },
+    {
+      "domanda": "In quali sotto-obiettivi si suddividono le fasi di DAGMAR?",
+      "risposta": "1) Category need; 2) Brand awareness; 3) Conoscenza e comprensione del brand; 4) Brand attitude e intenzione d'acquisto; 5) Facilitazione all'acquisto; 6) Acquisto; 7) Soddisfazione; 8) Loyalty e advocacy."
+    },
+    {
+      "domanda": "Che cos'è il Category Need (DAGMAR)?",
+      "risposta": "Creare il bisogno: far percepire la necessità di ciò che si offre. È fondamentale per prodotti innovativi (beneficio non ovvio) e per campagne di sensibilizzazione. Richiede maggiore intensità pubblicitaria per costruire conoscenza dei benefici della categoria."
+    },
+    {
+      "domanda": "Cosa si intende per Brand Awareness in DAGMAR?",
+      "risposta": "L'associazione della marca a una categoria di bisogni: non basta conoscere la marca, è importante collegarla a ciò che «fa». Si misura presentando al target la categoria e verificando a quale marca viene associata."
+    },
+    {
+      "domanda": "Quali sono i 4 livelli di Brand Awareness?",
+      "risposta": "1) Top of Mind; 2) Brand Recall (awareness spontanea); 3) Brand Recognition (conoscenza sollecitata); 4) Awareness totale (spontanea + suggerita)."
+    },
+    {
+      "domanda": "Che cos'è il Top of Mind?",
+      "risposta": "La percentuale di persone che cita per prima una marca in una categoria. Indica posizione dominante nella mente del consumatore ed è l'obiettivo più ambizioso (essere la prima scelta spontanea)."
+    },
+    {
+      "domanda": "Che cos'è la Brand Recall (awareness spontanea)?",
+      "risposta": "La percentuale di consumatori che nomina spontaneamente una o più marche associandole alla categoria. Richiede ripetizione dell'associazione categoria-marchio; la frequenza è un must (TV, radio, outdoor)."
+    },
+    {
+      "domanda": "Che cos'è la Brand Recognition (conoscenza sollecitata)?",
+      "risposta": "La percentuale di rispondenti che dichiara di riconoscere il brand all'interno di un elenco proposto. Per costruirla la comunicazione deve richiamare elementi riconoscibili (es. mostrare il packaging); la coerenza della visual identity è cruciale."
+    },
+    {
+      "domanda": "Come si raggiunge il target nel piano di comunicazione?",
+      "risposta": "Con strumenti diretti (telefono, email, incontri) quando si hanno i dati (CRM, database, liste); con i mass media (TV, internet, social, stampa, radio, cinema) quando non è possibile il contatto diretto."
+    },
+    {
+      "domanda": "Differenza tra media offline e online nella definizione del target?",
+      "risposta": "Media offline (TV, radio, stampa): si basano su variabili geo-socio-demografiche. Media online (siti, social): raccolgono dati comportamentali e interessi per target molto specifici."
+    },
+    {
+      "domanda": "Che cosa sono le buyer personas?",
+      "risposta": "Rappresentazioni semi-fittizie del consumatore ideale, basate su dati reali. Aiutano a immedesimarsi nel target trovando messaggi, linguaggio e canali più efficaci. Ogni target group può avere più personas."
+    },
+    {
+      "domanda": "Come si costruisce il profilo di una buyer persona?",
+      "risposta": "Con nome, età, luogo, attività, hobby, situazione familiare; motivazioni, interessi, ostacoli; problemi da risolvere, paure e frustrazioni (pain points). I pain point sono fondamentali perché le decisioni sono spesso guidate da emozioni inconsce."
+    },
+    {
+      "domanda": "A cosa serve l'analisi del customer journey nel piano di comunicazione?",
+      "risposta": "A ricostruire il percorso del cliente (dalla nascita del bisogno fino a diventare promotore) con due obiettivi: trovare i canali di comunicazione più adatti e definire il messaggio giusto per ogni momento di interazione (touchpoint)."
+    }
+  ]
+}

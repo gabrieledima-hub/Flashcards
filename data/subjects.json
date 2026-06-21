@@ -3,15 +3,51 @@
     {
       "id": "tecnica-della-comunicazione",
       "nome": "Tecnica della comunicazione",
-      "descrizione": "Flashcard sui fondamenti della comunicazione.",
+      "descrizione": "Economia e tecnica della comunicazione — Modulo 2.",
       "colore": "#7c5cff",
       "cartella": "Tecnica della comunicazione",
       "capitoli": [
         {
           "id": "capitolo-01",
           "titolo": "Capitolo 1 — Brand Equity",
-          "descrizione": "Brand equity, modello di Keller, Interbrand.",
+          "descrizione": "Brand equity, identity, image, corporate branding e reputation.",
           "file": "capitolo-01.json"
+        },
+        {
+          "id": "capitolo-02",
+          "titolo": "Capitolo 2 — Piano di comunicazione",
+          "descrizione": "Stakeholder, target, processo di pianificazione, DAGMAR.",
+          "file": "capitolo-02.json"
+        },
+        {
+          "id": "capitolo-03",
+          "titolo": "Capitolo 3 — I canali di comunicazione",
+          "descrizione": "Paid, Owned ed Earned media.",
+          "file": "capitolo-03.json"
+        },
+        {
+          "id": "capitolo-04",
+          "titolo": "Capitolo 4 — Come funziona la pubblicità",
+          "descrizione": "Effetti della pubblicità, customer journey e modelli.",
+          "file": "capitolo-04.json"
+        },
+        {
+          "id": "capitolo-05",
+          "titolo": "Capitolo 5 — Strategia di comunicazione",
+          "descrizione": "Brief creativo, obiettivi, insight e copy strategy.",
+          "file": "capitolo-05.json"
+        },
+        {
+          "id": "capitolo-06",
+          "titolo": "Capitolo 6 — Autodisciplina pubblicitaria",
+          "descrizione": "Deontologia, AGCM, AGCOM, IAP e codice di autodisciplina.",
+          "file": "capitolo-06.json"
+        },
+        {
+          "id": "capitolo-07",
+          "titolo": "Capitolo 7 — Stili creativi",
+          "descrizione": "Approcci razionali ed emozionali alla creatività.",
+          "file": "capitolo-07.json"
         }
       ]
     }
