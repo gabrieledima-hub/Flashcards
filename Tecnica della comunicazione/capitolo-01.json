@@ -1,0 +1,10 @@
+{
+  "titolo": "Capitolo 1",
+  "descrizione": "Sostituire con le flashcard del primo capitolo.",
+  "flashcards": [
+    {
+      "domanda": "Esempio: questa è la facciata davanti della carta (la domanda).",
+      "risposta": "Esempio: questa è la risposta. Leggimi il Capitolo 1 e riempirò questa lista con le vere flashcard."
+    }
+  ]
+}

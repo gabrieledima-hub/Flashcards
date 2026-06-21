@@ -1,0 +1,19 @@
+{
+  "materie": [
+    {
+      "id": "tecnica-della-comunicazione",
+      "nome": "Tecnica della comunicazione",
+      "descrizione": "Flashcard sui fondamenti della comunicazione.",
+      "colore": "#7c5cff",
+      "cartella": "Tecnica della comunicazione",
+      "capitoli": [
+        {
+          "id": "capitolo-01",
+          "titolo": "Capitolo 1",
+          "descrizione": "In attesa del contenuto.",
+          "file": "capitolo-01.json"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+:root {
+  --bg: #0f1226;
+  --bg-soft: #171a36;
+  --card: #1e2244;
+  --card-2: #262b54;
+  --text: #eef0ff;
+  --muted: #a6abd4;
+  --accent: #7c5cff;
+  --accent-2: #4dd6c4;
+  --good: #3ddc84;
+  --warn: #ffb454;
+  --shadow: 0 10px 40px rgba(0, 0, 0, 0.35);
+  --radius: 18px;
+  --maxw: 1000px;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: radial-gradient(1200px 800px at 80% -10%, #2a2058 0%, transparent 55%),
+              radial-gradient(1000px 700px at -10% 10%, #15324a 0%, transparent 50%),
+              var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  min-height: 100vh;
+}
+
+a { color: inherit; text-decoration: none; }
+
+/* Topbar */
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  backdrop-filter: blur(14px);
+  background: rgba(15, 18, 38, 0.72);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+}
+.topbar-inner {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 14px 22px;
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+.brand { display: flex; align-items: center; gap: 10px; font-weight: 700; font-size: 1.05rem; }
+.brand-mark { font-size: 1.3rem; }
+.breadcrumb { color: var(--muted); font-size: 0.92rem; display: flex; gap: 8px; align-items: center; }
+.breadcrumb a:hover { color: var(--text); }
+.breadcrumb .sep { opacity: 0.5; }
+
+/* Layout */
+.app { max-width: var(--maxw); margin: 0 auto; padding: 32px 22px 64px; }
+.footer { text-align: center; color: var(--muted); font-size: 0.85rem; padding: 28px 0 40px; }
+
+.page-head { margin-bottom: 26px; }
+.page-head h1 { margin: 0 0 6px; font-size: 1.9rem; letter-spacing: -0.02em; }
+.page-head p { margin: 0; color: var(--muted); }
+
+/* Grid of subjects / chapters */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 18px;
+}
+
+.tile {
+  position: relative;
+  display: block;
+  padding: 22px;
+  border-radius: var(--radius);
+  background: linear-gradient(160deg, var(--card) 0%, var(--card-2) 100%);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  box-shadow: var(--shadow);
+  transition: transform 0.18s ease, border-color 0.18s ease;
+  overflow: hidden;
+}
+.tile:hover { transform: translateY(-4px); border-color: rgba(124, 92, 255, 0.5); }
+.tile .accent-bar { position: absolute; left: 0; top: 0; bottom: 0; width: 5px; }
+.tile h3 { margin: 0 0 8px; font-size: 1.2rem; }
+.tile p { margin: 0; color: var(--muted); font-size: 0.9rem; }
+.tile .meta { margin-top: 16px; display: flex; gap: 14px; color: var(--muted); font-size: 0.82rem; }
+.tile .pill {
+  background: rgba(255, 255, 255, 0.07);
+  padding: 4px 10px; border-radius: 999px; font-weight: 600;
+}
+
+.empty {
+  text-align: center; color: var(--muted);
+  padding: 60px 20px; border: 1px dashed rgba(255,255,255,0.15);
+  border-radius: var(--radius);
+}
+
+/* Study mode */
+.study-head {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 16px; margin-bottom: 20px; flex-wrap: wrap;
+}
+.study-head h1 { margin: 0; font-size: 1.4rem; }
+.progress { color: var(--muted); font-size: 0.9rem; }
+.progress-bar { height: 6px; border-radius: 999px; background: rgba(255,255,255,0.08); margin: 14px 0 26px; overflow: hidden; }
+.progress-bar > span { display: block; height: 100%; background: linear-gradient(90deg, var(--accent), var(--accent-2)); transition: width 0.3s ease; }
+
+.flashcard {
+  perspective: 1600px;
+  height: 380px;
+  margin: 0 auto 26px;
+  max-width: 680px;
+  cursor: pointer;
+}
+.flashcard-inner {
+  position: relative;
+  width: 100%; height: 100%;
+  transition: transform 0.55s cubic-bezier(.2,.8,.2,1);
+  transform-style: preserve-3d;
+}
+.flashcard.flipped .flashcard-inner { transform: rotateY(180deg); }
+.face {
+  position: absolute; inset: 0;
+  backface-visibility: hidden;
+  border-radius: 22px;
+  padding: 36px;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  text-align: center;
+  box-shadow: var(--shadow);
+  border: 1px solid rgba(255,255,255,0.08);
+}
+.face .tag { position: absolute; top: 18px; left: 22px; font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
+.face .content { font-size: 1.35rem; line-height: 1.5; max-height: 100%; overflow-y: auto; }
+.face .hint { position: absolute; bottom: 16px; font-size: 0.78rem; color: var(--muted); }
+.face-front { background: linear-gradient(160deg, var(--card) 0%, var(--card-2) 100%); }
+.face-back { background: linear-gradient(160deg, #20305a 0%, #1d3b52 100%); transform: rotateY(180deg); }
+.face-back .content { font-size: 1.15rem; }
+
+.controls { display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; }
+.btn {
+  border: 1px solid rgba(255,255,255,0.1);
+  background: var(--bg-soft);
+  color: var(--text);
+  padding: 12px 20px; border-radius: 12px; font-size: 0.95rem; font-weight: 600;
+  cursor: pointer; transition: transform 0.12s ease, background 0.18s ease;
+}
+.btn:hover { transform: translateY(-2px); }
+.btn:active { transform: translateY(0); }
+.btn-ghost { background: transparent; }
+.btn-good { background: rgba(61, 220, 132, 0.15); border-color: rgba(61,220,132,0.4); color: var(--good); }
+.btn-warn { background: rgba(255, 180, 84, 0.15); border-color: rgba(255,180,84,0.4); color: var(--warn); }
+.btn-primary { background: linear-gradient(90deg, var(--accent), #9d7bff); border-color: transparent; }
+
+.shortcuts { text-align: center; color: var(--muted); font-size: 0.78rem; margin-top: 20px; }
+.shortcuts kbd {
+  background: rgba(255,255,255,0.08); border-radius: 6px; padding: 2px 7px;
+  font-family: ui-monospace, monospace; font-size: 0.74rem; border: 1px solid rgba(255,255,255,0.1);
+}
+
+.toolbar { display: flex; gap: 10px; margin-bottom: 22px; flex-wrap: wrap; }
+
+.done-card { text-align: center; padding: 50px 24px; }
+.done-card .big { font-size: 3rem; }
+.done-card h2 { margin: 10px 0; }
+.done-card .stats { display: flex; justify-content: center; gap: 26px; margin: 24px 0; color: var(--muted); }
+.done-card .stats b { display: block; font-size: 1.6rem; color: var(--text); }
+
+.loading { text-align: center; color: var(--muted); padding: 60px; }
+
+@media (max-width: 520px) {
+  .flashcard { height: 320px; }
+  .face .content { font-size: 1.15rem; }
+}
