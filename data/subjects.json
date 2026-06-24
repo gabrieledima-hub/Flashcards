@@ -50,6 +50,63 @@
           "file": "capitolo-07.json"
         }
       ]
+    },
+    {
+      "id": "economia-tecnica-comunicazione-m1",
+      "nome": "Economia e tecnica della comunicazione — Modulo 1",
+      "descrizione": "Comunicazione aziendale, reputazione, PMI e product placement.",
+      "colore": "#00d4ff",
+      "cartella": "Economia e tecnica della comunicazione - Modulo 1",
+      "capitoli": [
+        {
+          "id": "capitolo-01",
+          "titolo": "Capitolo 1 — La comunicazione aziendale",
+          "descrizione": "Dominio concettuale, processo e identità visiva.",
+          "file": "capitolo-01.json"
+        },
+        {
+          "id": "capitolo-02",
+          "titolo": "Capitolo 2 — La comunicazione integrata",
+          "descrizione": "Le quattro aree e la live communication.",
+          "file": "capitolo-02.json"
+        },
+        {
+          "id": "capitolo-03",
+          "titolo": "Capitolo 3 — Immagine e reputazione",
+          "descrizione": "Corporate image e corporate reputation.",
+          "file": "capitolo-03.json"
+        },
+        {
+          "id": "capitolo-04",
+          "titolo": "Capitolo 4 — La media reputation",
+          "descrizione": "Mass media, agenda setting e Global RepTrak.",
+          "file": "capitolo-04.json"
+        },
+        {
+          "id": "capitolo-05",
+          "titolo": "Capitolo 5 — Il tema delle PMI",
+          "descrizione": "Comunicazione nella piccola e media impresa.",
+          "file": "capitolo-05.json"
+        },
+        {
+          "id": "capitolo-06",
+          "titolo": "Capitolo 6 — La comunicazione di crisi",
+          "descrizione": "Crisi, minacce alla reputazione e gestione.",
+          "file": "capitolo-06.json"
+        },
+        {
+          "id": "capitolo-07",
+          "titolo": "Capitolo 7 — Il product placement",
+          "descrizione": "Definizione, tipologie, normativa e liceità.",
+          "file": "capitolo-07.json"
+        },
+        {
+          "id": "capitolo-08",
+          "titolo": "Capitolo 8 — Pianificazione del product placement",
+          "descrizione": "Presentazione, chiarezza, connessione e prominenza.",
+          "file": "capitolo-08.json"
+        }
+      ]
     }
   ]
 }

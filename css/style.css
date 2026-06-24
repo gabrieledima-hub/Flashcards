@@ -11,7 +11,7 @@
   --accent-2: #00e0ff;   /* ciano elettrico */
   --purple: #8a5cff;
   --good: #2bff88;       /* verde neon */
-  --warn: #ffb83a;       /* arancio acceso */
+  --warn: #ff7a1a;       /* arancio pieno (da ripassare) */
   --lime: #b6ff3d;
 
   --grad-hot: linear-gradient(90deg, #ff2e93, #ff7b2e);
@@ -137,12 +137,12 @@ a { color: inherit; text-decoration: none; }
 
 /* Statistiche progressi */
 .statbar {
-  display: flex; height: 9px; border-radius: 999px; overflow: hidden;
+  display: flex; gap: 3px; height: 9px; border-radius: 999px; overflow: hidden;
   background: rgba(255,255,255,0.1); margin: 16px 0 10px;
 }
-.statbar .seg { display: block; height: 100%; }
-.statbar .seg-good { background: var(--grad-good); }
-.statbar .seg-warn { background: linear-gradient(90deg, #ffb83a, #ff6a3a); }
+.statbar .seg { display: block; height: 100%; border-radius: 999px; }
+.statbar .seg-good { background: #25d366; }          /* sapute: verde pieno */
+.statbar .seg-warn { background: #ff7a1a; }           /* da ripassare: arancio pieno, distinto */
 
 .statline { display: flex; flex-wrap: wrap; gap: 12px; color: var(--muted); font-size: 0.8rem; }
 .statline .dot, .stats-grid .dot { width: 9px; height: 9px; border-radius: 50%; display: inline-block; margin-right: 5px; vertical-align: middle; }
