@@ -1,10 +1,10 @@
 {
   "titolo": "Capitolo 6 — La comunicazione di crisi",
-  "descrizione": "Situazione di crisi, minacce alla reputazione e gestione.",
+  "descrizione": "Crisi, risk vs crisis communication, crisis leadership, preparazione e gestione.",
   "flashcards": [
     {
       "domanda": "Come si definisce una situazione di crisi?",
-      "risposta": "Un grave incidente o una serie di eventi che minacciano la capacità dell'azienda. «Si impiega una vita a costruire una reputazione e un battito d'ali per distruggerla»: viviamo in uno scenario di discontinuità e rischi emergenti in cui nessuno può sentirsi al sicuro."
+      "risposta": "Un grave incidente o una serie di eventi che minacciano la capacità della società di condurre il business e/o possono compromettere seriamente la reputazione e la fiducia degli stakeholder. «Si impiega una vita a costruire una reputazione e un battito d'ali per distruggerla»."
     },
     {
       "domanda": "Da cosa può essere scatenata una crisi e come si cataloga?",
@@ -16,19 +16,67 @@
     },
     {
       "domanda": "Perché si dice che «la reputazione è la prima vittima della crisi»?",
-      "risposta": "Perché la reputazione è ciò per cui la società è riconosciuta e alimenta aspettative sui comportamenti futuri; un'azienda non possiede la propria reputazione: essa è posseduta dai pubblici che la osservano."
+      "risposta": "Perché la reputazione è ciò per cui la società è riconosciuta e alimenta aspettative sui comportamenti futuri; un'azienda non possiede la propria reputazione: essa è posseduta dai pubblici che la osservano. Una reputazione consolidata crea però una base di «goodwill» vitale per affrontare una crisi."
     },
     {
       "domanda": "Cosa minaccia oggi la reputazione (vulnerabilità accresciuta)?",
-      "risposta": "Le minacce emergono più velocemente, si diffondono più ampiamente e sono più difficili da sradicare. Cause: scetticismo verso aziende e manager, ingerenze dei governi, diversificazione e connessione degli stakeholder, social media che rafforzano critici e influencer, regolamentazione che si sovrappone, influenza delle minoranze."
+      "risposta": "Le minacce emergono più velocemente, si diffondono più ampiamente e sono più difficili da sradicare. Cause: scetticismo verso aziende e manager, ingerenze dei governi, diversificazione e connessione degli stakeholder, social media che rafforzano critici e influencer, regolamentazione che si sovrappone, crescente influenza delle minoranze (anche gruppi piccoli possono danneggiare grandi corporate)."
     },
     {
       "domanda": "Quali sono le conseguenze di una crisi e cosa chiedono i media?",
-      "risposta": "Fiducia e credibilità sono indebolite prima ancora di parlare, ogni comunicazione viene scrutinata e nuove audience pensano subito al peggio. I media chiedono: Cosa è successo? Com'è successo? Di chi è la colpa? Cosa state facendo per rimediare? E ora cosa sta succedendo?"
+      "risposta": "Fiducia e credibilità sono indebolite prima ancora di parlare, ogni comunicazione viene scrutinata e nuove audience pensano subito al peggio (i media non aspettano le risposte). I media chiedono: Cosa è successo? Com'è successo? Di chi è la colpa? Cosa state facendo per rimediare? E ora cosa sta succedendo?"
     },
     {
-      "domanda": "Differenza tra crisis communication e risk communication?",
-      "risposta": "La risk communication ha l'obiettivo di informare, educare e coinvolgere il pubblico prima che il rischio si concretizzi, per ridurne l'impatto e migliorare la preparazione: il focus temporale è il futuro/prevenzione. Il crisis management è anzitutto una questione di visione e mentalità."
+      "domanda": "Differenza tra risk communication e crisis communication?",
+      "risposta": "RISK communication: informare ed educare PRIMA che il rischio si concretizzi (focus futuro/prevenzione), con dialogo bidirezionale e trasparenza; es. sicurezza stradale, vaccinazioni. CRISIS communication: gestire la comunicazione DURANTE o subito dopo un evento critico (focus presente/immediato), con messaggi rapidi e chiari per rassicurare e tutelare la reputazione; es. incendio, richiamo prodotti. Metafora: crisis = pompiere (spegne l'incendio già scoppiato); risk = ispettore di sicurezza (riduce la probabilità che accada)."
+    },
+    {
+      "domanda": "Quali teorie di riferimento per risk e crisis communication?",
+      "risposta": "RISK: Mental Model Approach (distanza tra percezione del rischio del pubblico e conoscenza scientifica) e SARF — Social Amplification of Risk Framework (come media e reti amplificano/attenuano la percezione del rischio). CRISIS: SCCT — Situational Crisis Communication Theory di Coombs (scelta della strategia in base a tipo e attribuzione di responsabilità) e Image Repair Theory di Benoit (tecniche di difesa dell'immagine)."
+    },
+    {
+      "domanda": "Perché si passa da crisis a risk communication?",
+      "risposta": "Per la crescente attenzione alla prevenzione (meno costosa e più efficace della sola gestione dell'emergenza), la maggiore disponibilità di dati predittivi (meteo, epidemiologia, sismica), le nuove tecnologie (social media per interazioni preventive) e il coinvolgimento delle comunità (la popolazione è parte attiva nella riduzione del rischio)."
+    },
+    {
+      "domanda": "Cosa significa passare dal crisis management al crisis leadership?",
+      "risposta": "Il crisis management è anzitutto una questione di visione e mentalità: è la leadership a essere messa alla prova nelle crisi. In una crisi i leader devono essere umili, trasparenti, capaci di ascoltare e pronti a condividere."
+    },
+    {
+      "domanda": "Come si sviluppa una crisi?",
+      "risposta": "Cause diverse generano sviluppi diversi: un grosso incidente ha un picco e richiede risposta immediata; una situazione che peggiora gradualmente si sviluppa in modo virulento con crescente pressione online/offline; un insieme di piccoli inconvenienti o proteste simultanee ostacola il business e deteriora la reputazione. Per definizione, le crisi non seguono un copione."
+    },
+    {
+      "domanda": "Come si affronta con successo una crisi?",
+      "risposta": "Non significa solo sopravvivere, ma ritrovarsi in una posizione più forte. Occorrono: un core team con poteri reali, agile e con struttura chiara; una mappatura globale degli stakeholder; un monitoraggio costante di tutti i media (inclusi social e commentatori); analisi delle posizioni e ascolto. Lo scopo è formare l'opinione con un piano strategico, guidando il dibattito invece di inseguirlo, e rinforzando la propria narrativa e reputazione."
+    },
+    {
+      "domanda": "Che cos'è il comitato di crisi (contingency planning)?",
+      "risposta": "Un comitato che ogni organizzazione deve costituire e mantenere attivo, formato da figure corporate (CEO/DG, CFO, direttore operations, direttore HR), con coordinamento affidato al DirCom e uno staff multifunzionale. Discute e approva strategie e piani per prevenire e prepararsi alle crisi, si riunisce periodicamente e svolge training/simulazioni. (Mai usare termini grotteschi per questi comitati, per evitare effetti boomerang.)"
+    },
+    {
+      "domanda": "Qual è il ruolo del Comms Officer (CCO) nella crisi?",
+      "risposta": "Il direttore della comunicazione ha un ruolo chiave nel team di crisis management: bilancia gli obblighi regolamentari (cosa si deve/può dire) e gli equilibri interni; coordina i momenti in cui i responsabili parlano con politici, investitori, sindacati, clienti; organizza il team per reagire con consapevolezza, tutelare la reputazione in ogni sede e comunicare il «business as usual»."
+    },
+    {
+      "domanda": "Quali sono gli strumenti di preparazione alla crisi?",
+      "risposta": "Piano di comunicazione (ruolo del comitato, spokesperson, messaggi chiave, Q&A sulle domande più insidiose); stakeholder mapping; narrativa aziendale (la reputazione da difendere); audit costante delle vulnerabilità; terze parti (advocates, opinionisti, influencer a difesa dell'azienda); media training; simulazioni (esercitazioni reali)."
+    },
+    {
+      "domanda": "Qual è l'ordine di importanza delle key audiences in una crisi?",
+      "risposta": "Varia col tipo di crisi; in generale: le persone/comunità colpite (le vittime), le comunità (locali/nazionali/internazionali), investitori e comunità finanziaria, governi, legislatori, dipendenti, clienti, fornitori. Trasversali a tutte le categorie: i media e i social media."
+    },
+    {
+      "domanda": "Cosa fare nelle prime ore quando esplode la crisi?",
+      "risposta": "Allarme immediato con convocazione del comitato di crisi; raccolta tempestiva delle informazioni; chiarire subito ruoli e responsabilità; avviare/rafforzare il monitoraggio di tutti i canali; preparare/aggiornare Q&A, key messages, talking points e leak strategy; contatti con advisor esterni; primi statement con advisor legali e di comunicazione (usando anche i social). È fondamentale essere tempestivi e incisivi."
+    },
+    {
+      "domanda": "Kit di sopravvivenza: quali errori di atteggiamento evitare in una crisi?",
+      "risposta": "Pensare che «è troppo complicato per il pubblico», «chi ci critica ha una propria agenda», «non abbiamo niente da dire», «i legali mi dicono di non dire niente», «il pubblico ha un'attenzione ridotta», «non possiamo rispondere ad argomenti così emotivi»."
+    },
+    {
+      "domanda": "Kit di sopravvivenza: qual è il modo giusto di affrontare una crisi?",
+      "risposta": "Lavorare sui fatti; non rinviare; definire la propria narrativa; capire quali canali media contano; dialogare con collaboratori e dipendenti; ingaggiare terze parti; mantenere la gestione focalizzata sul business; essere disciplinati e coerenti su cosa dire e chi lo dice; cogliere le opportunità per un rapido cambio di passo o di direzione."
     }
   ]
 }

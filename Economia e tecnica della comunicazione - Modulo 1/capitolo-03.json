@@ -1,14 +1,14 @@
 {
   "titolo": "Capitolo 3 — I concetti di immagine e reputazione",
-  "descrizione": "Immagine aziendale, corporate reputation, caratteri e variabili.",
+  "descrizione": "Immagine aziendale, corporate reputation, formazione, caratteri e variabili.",
   "flashcards": [
     {
       "domanda": "Dove e quando nasce il concetto di immagine aziendale?",
-      "risposta": "Nella letteratura statunitense dei primi anni '50, in un contesto di crescente attenzione agli aspetti relazionali e comunicativi dei rapporti interni all'azienda e con l'ambiente esterno. L'immagine è la valutazione che il pubblico dà dell'impresa (come le persone, anche un'impresa può avere un'immagine)."
+      "risposta": "Nella letteratura statunitense dei primi anni '50, in un contesto di crescente attenzione agli aspetti relazionali e comunicativi dei rapporti interni e con l'ambiente esterno. L'immagine è la valutazione che il pubblico dà dell'impresa (come le persone, anche un'impresa può avere un'immagine)."
     },
     {
       "domanda": "Quali 4 aree decisionali occorre esaminare per comprendere il carattere dell'azienda?",
-      "risposta": "1) La scelta del settore e la posizione che vi vuole assumere; 2) l'enfasi sulla stabilità della gestione rispetto alla predisposizione al cambiamento; 3) la modalità di rapporto con il contesto sociale; 4) la filosofia di gestione dell'azienda nel suo complesso."
+      "risposta": "1) La scelta del settore e la posizione che vi vuole assumere; 2) l'enfasi sulla stabilità della gestione rispetto al cambiamento (azienda tradizionale o innovativa/flessibile?); 3) la modalità di rapporto con il contesto sociale (responsabilità sociale/etica); 4) la filosofia di gestione (come gestisce persone e risorse)."
     },
     {
       "domanda": "Quali due filoni di studio sulla corporate image si aprono dalla fine degli anni '50?",
@@ -19,20 +19,28 @@
       "risposta": "La sintesi di un vasto insieme di segnali che l'impresa trasmette agli stakeholder nel corso del tempo riguardo al suo agire strategico, sia in modo esplicito che implicito. La coerenza dei comportamenti con i segnali inviati e la risposta alle attese degli stakeholder ne determinano la formazione."
     },
     {
+      "domanda": "Come si forma la reputazione (in condizioni di informazione incompleta)?",
+      "risposta": "Gli stakeholder: 1) raccolgono segnali; 2) li interpretano; 3) formulano aspettative sul comportamento futuro dell'impresa; 4) prendono decisioni. Se nel tempo i comportamenti dell'impresa confermano le aspettative nasce una reputazione positiva; se le smentiscono, negativa."
+    },
+    {
       "domanda": "Quali sono i 3 elementi essenziali della reputazione?",
       "risposta": "1) Dimensione temporale (richiede consistenza delle azioni per un lungo periodo); 2) ampiezza degli interlocutori (interni ed esterni); 3) fonti della reputazione (esperienza e informazione)."
     },
     {
       "domanda": "Quali sono le fonti della reputazione e come è resa disponibile l'informazione?",
-      "risposta": "Le fonti sono esperienza (storia delle relazioni dirette con l'impresa) e informazione (aspetti economici e non). L'informazione è resa disponibile tramite: la comunicazione esplicita dell'impresa, la diffusione di notizie dei mass media, e l'azione di altri soggetti e il passaparola (influencer, amici)."
+      "risposta": "Le fonti sono esperienza (storia delle relazioni dirette con l'impresa) e informazione (aspetti economici e non). L'informazione è resa disponibile tramite: la comunicazione esplicita dell'impresa, la diffusione di notizie dei mass media, l'azione di altri soggetti e il passaparola (influencer, amici: per noi credibili)."
     },
     {
       "domanda": "Qual è il duplice ruolo della reputazione aziendale?",
-      "risposta": "1) Riduttore di incertezza: per gli stakeholder, a fronte di asimmetrie informative e dell'alto costo di ricerca di informazioni dirette; 2) strategic asset intangibile: per l'impresa, in grado di generare rendite e vantaggi competitivi che migliorano le performance."
+      "risposta": "1) Riduttore di incertezza: per gli stakeholder, a fronte di asimmetrie informative e dell'alto costo di ricerca di informazioni dirette (li aiuta a decidere riducendo costi informativi e rischio percepito); 2) strategic asset intangibile: per l'impresa, genera rendite e vantaggi competitivi che migliorano le performance."
+    },
+    {
+      "domanda": "DOMANDA ESAME: che ruolo ha la reputazione per l'impresa e per gli stakeholder?",
+      "risposta": "Per gli STAKEHOLDER svolge un ruolo di riduzione dell'incertezza: operando in informazione incompleta, usano la reputazione come fonte sintetica per interpretare i segnali, formulare aspettative e decidere. Per l'IMPRESA è un asset strategico intangibile: dà vantaggi competitivi, genera rendite, facilita l'accesso al mercato, rafforza la fiducia e attrae risorse (capitale, lavoro, partnership). Importante: non sta dentro l'azienda, ma nella testa e nella memoria degli stakeholder."
     },
     {
       "domanda": "Quali sono gli 8 caratteri della reputazione come strategic asset?",
-      "risposta": "Sedimentabilità (accumulata all'esterno dell'azienda), Unicità (irripetibile per ogni azienda), Difficile acquisibilità (tempi lunghi), Difficile copiabilità (non imitabile), Molteplicità d'uso (impiegabile in più contesti senza impoverirsi), Deperibilità (rapido deterioramento), Incrementabilità (può essere arricchita), Trasferibilità (estensibile e condivisibile)."
+      "risposta": "Sedimentabilità (accumulata all'esterno dell'azienda), Unicità (irripetibile), Difficile acquisibilità (tempi lunghi), Difficile copiabilità (non imitabile), Molteplicità d'uso (impiegabile in più contesti senza impoverirsi), Deperibilità (rapido deterioramento), Incrementabilità (può essere arricchita), Trasferibilità (estensibile e condivisibile)."
     },
     {
       "domanda": "Quali sono le variabili che definiscono la corporate reputation?",

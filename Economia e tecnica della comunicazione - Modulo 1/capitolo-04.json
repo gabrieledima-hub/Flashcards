@@ -1,30 +1,34 @@
 {
   "titolo": "Capitolo 4 — La media reputation",
-  "descrizione": "Ruolo dei mass media, agenda setting/building e Global RepTrak.",
+  "descrizione": "Ruolo dei mass media, schema dell'agenda setting e Global RepTrak.",
   "flashcards": [
     {
       "domanda": "Qual è il ruolo dei mass media rispetto alla reputazione?",
-      "risposta": "La copertura sui mass media (media coverage) è un ragionevole indicatore della conoscenza e delle opinioni che i pubblici si formano su un'impresa, soprattutto per chi non ha esperienza diretta. I media registrano, testimoniano e interpretano le informazioni e godono di elevata credibilità (per il loro ruolo di vigilanza e la superiore capacità di analisi)."
+      "risposta": "La copertura sui mass media (media coverage) è un ragionevole indicatore della conoscenza e delle opinioni che i pubblici si formano su un'impresa, soprattutto per chi non ha esperienza diretta. I media registrano, testimoniano e interpretano le informazioni e godono di elevata credibilità (per il ruolo di vigilanza e la superiore capacità di analisi)."
     },
     {
       "domanda": "Che cos'è la media reputation?",
-      "risposta": "La valutazione dell'impresa così come viene presentata e risulta sui media: è il risultato del flusso dello storytelling."
+      "risposta": "La valutazione dell'impresa così come viene presentata e risulta sui media: è il risultato del flusso dello storytelling. Non coincide con la reputazione totale, ma la influenza molto (ciò che i media raccontano orienta l'atteggiamento delle persone)."
     },
     {
       "domanda": "Qual è l'ipotesi dell'agenda setting?",
-      "risposta": "Permette di capire cosa pensa la gente di un'impresa senza chiederlo direttamente: i mass media, dando rilievo a certi temi, mettono nella nostra testa gli stimoli su cui riflettere. La salienza è la rilevanza/familiarità di un attributo."
+      "risposta": "Permette di capire cosa pensa la gente di un'impresa senza chiederlo direttamente: i mass media non dicono al pubblico cosa pensare, ma su cosa pensare, attribuendo maggiore salienza (rilevanza/familiarità) ad alcuni temi e attributi rispetto ad altri."
     },
     {
-      "domanda": "Cosa sono agenda building, agenda cutting e agenda setting?",
-      "risposta": "Agenda building: l'attività di giornalisti, PR e public affairs che cercano di raccontare i fatti. Agenda cutting: i giornalisti non pubblicano tutto ciò che ricevono (la realtà mediatica è tagliata). Agenda setting: l'agenda dei media mette nella testa del pubblico gli stimoli su cui riflettere."
+      "domanda": "Spiega lo schema completo del processo: dalla realtà alla public agenda.",
+      "risposta": "1) REALTÀ: economia, società, politica, scienza (non tutta arriva ai media). 2) AGENDA BUILDING: imprese, PR, public affairs cercano di dare visibilità ad alcuni temi (provano a influenzare, non decidono). 3) AGENDA CUTTING: i giornalisti selezionano, tagliano, filtrano (parte della realtà resta fuori). 4) MEDIA AGENDA: la «realtà mediatica» visibile al pubblico. 5) AGENDA SETTING: i media orientano su cosa pensare. 6) PUBLIC AGENDA: la percezione della realtà da parte del pubblico (nasce soprattutto dai media, in parte dall'esperienza diretta)."
     },
     {
       "domanda": "Quali sono le ipotesi dell'estensione dell'agenda setting alla comunicazione d'impresa?",
       "risposta": "1) Più copertura mediatica = maggiore notorietà; 2) più copertura di un attributo = più pubblico definisce l'impresa con quell'attributo; 3) copertura positiva/negativa di un attributo = percezione positiva/negativa di esso; 4) la copertura di attributi cognitivi e affettivi predispone l'atteggiamento del pubblico; 5) gli sforzi comunicativi dell'impresa (corporate agenda) si riflettono negli attributi presenti sui media."
     },
     {
+      "domanda": "In conclusione, come si forma la reputazione aziendale (ruolo dei media)?",
+      "risposta": "Non è il semplice risultato della comunicazione intenzionale dell'impresa, ma il prodotto di un processo complesso che coinvolge realtà, media e pubblico. I mass media non riproducono l'intera realtà ma la selezionano e interpretano, svolgendo una funzione determinante di selezione, interpretazione e attribuzione di significato."
+    },
+    {
       "domanda": "Che cos'è il Global RepTrak?",
-      "risposta": "Un indice annuale che misura e analizza la reputazione delle aziende più importanti del mondo (uno standard globale). Tramite indagini su campioni di popolazione, ogni azienda riceve un punteggio da 0 a 100 basato su sette dimensioni chiave (es. ambiente di lavoro, prodotti e servizi, performance)."
+      "risposta": "Un indice annuale che misura la reputazione delle aziende più importanti del mondo (uno standard globale). Tramite indagini su campioni di popolazione, ogni azienda riceve un punteggio da 0 a 100 basato su sette dimensioni chiave (es. ambiente di lavoro, prodotti e servizi, performance)."
     }
   ]
 }

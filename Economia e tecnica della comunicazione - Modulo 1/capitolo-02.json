@@ -1,30 +1,34 @@
 {
   "titolo": "Capitolo 2 — La comunicazione integrata",
-  "descrizione": "Le quattro aree della comunicazione integrata e la live communication.",
+  "descrizione": "Definizione di comunicazione integrata, le quattro aree e la live communication.",
   "flashcards": [
+    {
+      "domanda": "Che cos'è la comunicazione integrata?",
+      "risposta": "È l'insieme di tutte le forme di comunicazione esplicita dell'azienda che, pur avendo obiettivi, strumenti e pubblici diversi, devono essere coerenti tra loro e con l'identità dell'azienda: tutto deve dire la stessa cosa, anche parlando a pubblici diversi."
+    },
     {
       "domanda": "Quali sono le 4 aree della comunicazione integrata?",
       "risposta": "1) La comunicazione istituzionale (corporate communication); 2) la comunicazione organizzativa e di confine; 3) la comunicazione per il reperimento delle risorse; 4) la comunicazione di marketing."
     },
     {
       "domanda": "Comunicazione istituzionale (corporate communication): obiettivo e forme?",
-      "risposta": "Obiettivo: perseguire la legittimazione dell'azienda nell'ambiente sociale in cui opera. Forme principali: pubblicità istituzionale, sponsorizzazione istituzionale, relazioni pubbliche istituzionali, bilancio sociale e ambientale."
+      "risposta": "Obiettivo: perseguire la legittimazione dell'azienda nell'ambiente sociale in cui opera (farla apparire affidabile, responsabile e giusta, parlando dei suoi valori). Forme: pubblicità istituzionale, sponsorizzazione istituzionale, relazioni pubbliche istituzionali, bilancio sociale e ambientale."
     },
     {
       "domanda": "Comunicazione organizzativa e di confine: obiettivo e forme?",
-      "risposta": "Obiettivo: ottimizzare l'impiego delle risorse umane (dipendenti, collaboratori, partner, attori di altre imprese integrate nei processi). Forme: comunicazione di coordinamento, di orientamento strategico, di omologazione e controllo."
+      "risposta": "Obiettivo: ottimizzare l'impiego delle risorse umane (dipendenti, collaboratori, partner, attori di altre imprese integrate nei processi) — organizzare il lavoro, spiegare obiettivi e mission, far rispettare le regole. Forme: comunicazione di coordinamento, di orientamento strategico, di omologazione e controllo."
     },
     {
       "domanda": "Comunicazione per il reperimento delle risorse: obiettivo e forme?",
-      "risposta": "Obiettivo: far conoscere le condizioni di impiego delle risorse nell'impresa. Forme: comunicazione ai portatori di capitale, al mercato del credito, al mercato del lavoro e ai portatori di know-how."
+      "risposta": "Obiettivo: far conoscere le condizioni di impiego delle risorse nell'impresa, per convincere chi le fornisce. Forme: comunicazione ai portatori di capitale (investitori, azionisti), al mercato del credito (banche, istituti finanziari), al mercato del lavoro e ai portatori di know-how (esperti, professionisti)."
     },
     {
       "domanda": "Comunicazione di marketing: obiettivo e forme?",
-      "risposta": "Obiettivo: ampliare e consolidare il mercato di sbocco dell'azienda. Forme: pubblicità di prodotto, promozione delle vendite, comunicazione della forza di vendita, sponsorizzazione di prodotto, relazioni pubbliche di prodotto."
+      "risposta": "Obiettivo: ampliare e consolidare il mercato di sbocco, cioè vendere di più e rafforzare la posizione sul mercato. Forme: pubblicità di prodotto, promozione delle vendite, comunicazione della forza di vendita, sponsorizzazione di prodotto, relazioni pubbliche di prodotto."
     },
     {
       "domanda": "Cosa sono gli eventi e la live communication (consumer experiential marketing)?",
-      "risposta": "Eventi live e sponsorship che permettono ai brand di interagire con i consumatori e creare brand image e awareness."
+      "risposta": "Eventi live e sponsorship che fanno vivere al consumatore un'esperienza diretta, permettendo ai brand di interagire con i consumatori e creare brand image e awareness."
     }
   ]
 }

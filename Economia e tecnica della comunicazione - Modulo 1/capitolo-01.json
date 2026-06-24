@@ -8,7 +8,7 @@
     },
     {
       "domanda": "Quali 4 fenomeni cerca di descrivere e spiegare la comunicazione aziendale?",
-      "risposta": "1) Il comportamento degli attori che elaborano e inviano i messaggi (emittenti); 2) il comportamento di chi riceve e interpreta i messaggi (riceventi); 3) il comportamento delle organizzazioni che offrono beni/servizi per agevolare le relazioni tra le due classi (es. organizzatori di congressi); 4) le conseguenze di tali aspetti sulla società."
+      "risposta": "1) Il comportamento di chi elabora e invia i messaggi (emittenti); 2) il comportamento di chi riceve e interpreta i messaggi (riceventi); 3) il comportamento delle organizzazioni che offrono beni/servizi per agevolare le relazioni tra le due classi (es. organizzatori di congressi); 4) le conseguenze di tali aspetti sulla società."
     },
     {
       "domanda": "Da quali aree di ricerca è alimentato l'impianto teorico della comunicazione aziendale?",
@@ -19,20 +19,24 @@
       "risposta": "L'insieme delle manifestazioni attraverso le quali l'azienda attiva un processo di comunicazione con uno o più pubblici, ai quali propone uno o più aspetti della propria identità."
     },
     {
+      "domanda": "In sintesi, su cosa si fonda la comunicazione aziendale?",
+      "risposta": "Su quattro idee chiave: l'azienda ha sempre un'identità e quindi una reputazione; tutto comunica; conta la verità nel lungo periodo. I tipi: per forma (interpersonale / non personale / di massa) e per valenza (implicita / esplicita). La comunicazione esplicita si sviluppa in due aree: identità visiva e comunicazione integrata."
+    },
+    {
       "domanda": "Che cos'è il processo di comunicazione?",
       "risposta": "Il processo attraverso il quale una persona, un'azienda o un ente si pone in relazione con una o più persone, aziende o enti, avvalendosi di simboli verbali e non verbali."
     },
     {
       "domanda": "Quali sono i 4 principi della cultura della comunicazione aziendale?",
-      "risposta": "1) L'azienda, per il solo fatto di esistere, possiede un'identità e quindi una reputazione; 2) qualunque aspetto o attività contribuisce a delinearne identità e reputazione; 3) per quanti sforzi faccia, l'azienda non riuscirà mai a gestire completamente la propria reputazione; 4) solo la presentazione veritiera della propria identità consente di perseguire gli obiettivi di medio-lungo periodo."
+      "risposta": "1) L'azienda, per il solo fatto di esistere, possiede un'identità e quindi una reputazione; 2) qualunque aspetto o attività contribuisce a delinearne identità e reputazione; 3) per quanti sforzi faccia, non riuscirà mai a gestire completamente la propria reputazione; 4) solo la presentazione veritiera della propria identità consente di perseguire gli obiettivi di medio-lungo periodo."
     },
     {
       "domanda": "Come si classificano le manifestazioni della comunicazione aziendale?",
       "risposta": "Secondo la forma: dirette interpersonali, dirette non personali, di massa. Secondo la valenza comunicativa: implicite (connesse a struttura, organizzazione e attività) ed esplicite (sviluppate consapevolmente). La comunicazione esplicita si sviluppa in due aree: il sistema di identità visiva e la comunicazione integrata."
     },
     {
-      "domanda": "Da quali elementi è composto il sistema di identità visiva?",
-      "risposta": "Marchio, logotipo, colori istituzionali, caratteri da stampa istituzionali, gabbie grafiche, ambienti (architettura e arredamento), segnaletica interna ed esterna, mezzi di trasporto, stampati (modulistica, pieghevoli), esposizioni e oggettistica (calendari, agende)."
+      "domanda": "Che cos'è il sistema di identità visiva e da quali elementi è composto?",
+      "risposta": "È l'insieme degli elementi visivi che rendono l'azienda riconoscibile: marchio, logotipo, colori istituzionali, caratteri da stampa istituzionali, gabbie grafiche, ambienti (architettura e arredamento), segnaletica interna ed esterna, mezzi di trasporto, stampati, esposizioni e oggettistica (calendari, agende)."
     }
   ]
 }

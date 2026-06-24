@@ -8,23 +8,27 @@
     },
     {
       "domanda": "Quali sono le 3 dimensioni di analisi della comunicazione della PMI?",
-      "risposta": "1) Dimensione operativa (cosa concretamente fa); 2) dimensione strategica; 3) dimensione culturale. (Potenziale domanda d'esame.)"
+      "risposta": "1) Dimensione operativa (cosa concretamente fa); 2) dimensione strategica (come e perché si comunica); 3) dimensione culturale (la visione di fondo). (Potenziale domanda d'esame.)"
     },
     {
       "domanda": "In cosa consiste la dimensione OPERATIVA della comunicazione nella PMI?",
-      "risposta": "Riguarda singole attività, articolazione/coordinamento e modalità tecniche; spesso presenta grosse carenze. Gli strumenti si articolano in 3 classi per livello di interazione: 1) alta interazione con pubblici specifici (forza vendita, direct mailing); 2) rivolti al mercato in modo mirato (mostre, fiere, sales promotion); 3) relazione generale con ampi pubblici (pubblicità classica, PR, sponsorizzazioni)."
+      "risposta": "Riguarda cosa l'impresa fa concretamente ogni giorno in comunicazione (singole attività, articolazione/coordinamento, modalità tecniche); spesso è fatta male o senza coordinamento. Gli strumenti si articolano in 3 classi per livello di interazione: 1) alta con pubblici specifici (forza vendita, direct mailing); 2) mirata verso il mercato (mostre, fiere, sales promotion); 3) generale con ampi pubblici (pubblicità classica, PR, sponsorizzazioni)."
     },
     {
       "domanda": "In cosa consiste la dimensione STRATEGICA della comunicazione nella PMI?",
-      "risposta": "Riguarda la corretta definizione di obiettivi, l'articolazione dei piani di comunicazione e le modalità di controllo. La responsabilità è dell'imprenditore, in via esclusiva (51%) o congiunta (34%). Si riscontra la mancanza di una strategia formalizzata e carenze nel comunicarla."
+      "risposta": "Riguarda la corretta definizione di obiettivi, l'articolazione dei piani di comunicazione e le modalità di controllo. La responsabilità è dell'imprenditore, in via esclusiva (51%) o congiunta (34%), e spesso non è formalizzata. Si riscontrano la mancanza di una strategia formalizzata e le carenze nel comunicarla."
     },
     {
       "domanda": "In cosa consiste la dimensione CULTURALE della comunicazione nella PMI?",
-      "risposta": "Riguarda la consapevolezza dei caratteri dell'identità, l'attenzione alla reputazione e la visione strategica di lungo periodo. Obiettivo: far capire all'imprenditore che la comunicazione è qualcosa di più e tocca l'identità profonda dell'impresa: aiuta a sviluppare il progetto d'impresa, non solo a vendere di più."
+      "risposta": "Riguarda la consapevolezza dei caratteri dell'identità, l'attenzione alla reputazione e la visione strategica di lungo periodo (le migliori collaborazioni sono di medio-lungo periodo). Obiettivo: far capire all'imprenditore che la comunicazione tocca l'identità profonda dell'impresa e serve a sviluppare il progetto d'impresa, non solo a vendere di più."
     },
     {
       "domanda": "Qual è il principale risultato della ricerca sul ruolo della comunicazione nella PMI?",
-      "risposta": "La reputazione è la principale risorsa strategica e un fondamentale fattore di successo competitivo; la comunicazione commerciale (di marketing) si colloca invece all'ultimo posto tra i fattori di successo."
+      "risposta": "La reputazione è la principale risorsa strategica e un fondamentale fattore di successo competitivo; la comunicazione commerciale (di marketing) si colloca invece all'ultimo posto tra i fattori di successo. (Ricerca empirica su 407 PMI industriali, questionario a 11 domande.)"
+    },
+    {
+      "domanda": "Qual è la «contraddizione» che emerge dalla ricerca sulle PMI?",
+      "risposta": "Le imprese dichiarano che la comunicazione (soprattutto di marketing) è poco importante, ma allo stesso tempo considerano la reputazione fondamentale. La contraddizione è che la reputazione nasce proprio dalla comunicazione: la comunicazione è strategica ma viene praticata in modo implicito e inconsapevole (l'impresa la costituisce senza rendersene conto)."
     },
     {
       "domanda": "Differenza tra comunicazione esplicita e implicita nella PMI?",
@@ -32,11 +36,11 @@
     },
     {
       "domanda": "Quali caratteri dell'impresa influenzano il ruolo della comunicazione nella PMI?",
-      "risposta": "La dimensione aziendale (la comunicazione di marketing è più importante per le grandi); l'articolazione organizzativa (incide sulla comunicazione interna); il grado di managerializzazione (reputazione, marketing, comunicazione interna); il settore (non incide); l'ampiezza del mercato; la percentuale di esportazioni (oltre il 30% → più importanza a immagine di prodotto e marketing)."
+      "risposta": "La dimensione aziendale (la comunicazione di marketing è più importante per le grandi); l'articolazione organizzativa (più è organizzata, più conta la comunicazione interna); il grado di managerializzazione (reputazione, marketing, comunicazione interna); il settore (non incide); l'ampiezza del mercato; la percentuale di esportazioni (oltre il 30% → più importanza a immagine di prodotto e marketing)."
     },
     {
       "domanda": "Che percorso evolutivo hanno le imprese che giudicano la reputazione la risorsa PIÙ importante (65%)?",
-      "risposta": "Nate prima del 1980, dimensioni stabili, tutte società di capitale, mercato ampio e in espansione. Anni '60-'70: assetto semplice, il prodotto è il primo fattore di successo. Anni '80: cambia la forma giuridica, divisioni tra soci, l'immagine di prodotto diventa la risorsa più importante. Anni '90: collegamenti tra imprese, qualità totale, managerializzazione, la reputazione diventa la risorsa più importante."
+      "risposta": "Nate prima del 1980, dimensioni stabili, tutte società di capitale, mercato ampio e in espansione. Anni '60-'70: assetto semplice, il PRODOTTO e le competenze interne sono il primo fattore di successo. Anni '80: cambia la forma giuridica, divisioni tra soci, l'IMMAGINE DI PRODOTTO diventa la risorsa più importante. Anni '90: collegamenti tra imprese, qualità totale, managerializzazione, la REPUTAZIONE diventa la risorsa più importante."
     },
     {
       "domanda": "Che caratteristiche hanno le imprese che giudicano la reputazione la risorsa MENO importante (9%)?",
@@ -48,7 +52,7 @@
     },
     {
       "domanda": "Qual è la conclusione sul rapporto tra reputazione e realtà nella PMI?",
-      "risposta": "La reputazione non precede né sostituisce la realtà: la qualità del prodotto (frutto di competenze, innovazione e relazioni) resta al primo posto tra i fattori di successo. Senza valenze distintive ed eccellenza da comunicare, non può esistere una reputazione positiva e duratura."
+      "risposta": "La reputazione non precede né sostituisce la realtà: la qualità del prodotto (frutto di competenze, innovazione e relazioni) resta al primo posto tra i fattori di successo. Senza valenze distintive ed eccellenza da comunicare, non può esistere una reputazione positiva e duratura. È il dinamismo dell'impresa che fa crescere nel tempo la consapevolezza del ruolo strategico della reputazione."
     }
   ]
 }
